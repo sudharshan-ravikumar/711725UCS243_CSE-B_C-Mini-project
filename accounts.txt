@@ -1,0 +1,6 @@
+Acct  Last Name       First Name Phone             Balance
+1     John            Joe        U                    0.00
+85                                                    0.00
+1634492738                                                0.00
+6     sudhar,sudthar  san,12345  67890,1000       -4898.00
+1752123904n               �@                           0.00
